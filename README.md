@@ -1,2 +1,0 @@
-# lou
- carpeta vacia
